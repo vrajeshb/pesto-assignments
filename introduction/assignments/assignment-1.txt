@@ -1,0 +1,28 @@
+1.What is a protocol stack, and how is it used in web development?
+- The Internet Protocol stack is a set of rules and protocols that enable devices to communicate on the internet. These protocols are organized into layers, with each layer building on top of the one below it.
+There are 4 layers:
+
+A. Link Layer: At the bottom layer, devices need a way to physically send and receive digital data over wired or wireless connections. This layer handles the transmission of signals as bits and deals with issues related to the physical connection.
+
+B. Network Layer: To communicate beyond two directly connected devices, we need addressing protocols to identify the sender and receiver of data. The IP (Internet Protocol) addresses are used for this purpose, uniquely identifying each device on the internet.
+
+C. Transport Layer: Data on the internet is divided into small packets for efficient transmission. The Transport Layer manages the reliable and orderly delivery of these packets. TCP (Transmission Control Protocol) ensures data is delivered accurately, while UDP (User Datagram Protocol) provides faster but less reliable communication.
+
+D. Application Layer: At the top layer, we find various protocols that cater to specific services and applications on the internet.
+
+2. What are the different types of web servers, and how do they differ in terms of functionality and performance?
+- There are 6 types of web servers:
+A. Shared Hosting:
+Multiple websites share the same server resources, such as storage, memory, and processing power.
+B. VPS Hosting (Virtual Private Server):
+It offers more resources and flexibility than shared hosting, as you get a virtual server dedicated to your website.
+C. Dedicated Hosting:
+You get an entire physical server dedicated solely to your website, offering the highest level of performance and customization.
+D. Cloud Hosting:
+You want to handle varying traffic levels effectively, as cloud hosting can dynamically scale resources up or down.
+It provides scalability and reliability
+E. Managed WordPress Hosting:
+Managed WordPress hosting is like having a maintenance team for your WordPress website. The hosting provider takes care of updates, backups, and security.
+Use Managed WordPress Hosting When: You run a WordPress site and want to focus on content creation without dealing with technical aspects.
+F. Reseller Hosting:
+Reseller hosting is like being a middleman. You purchase hosting resources in bulk from a provider and sell smaller hosting plans to others.
